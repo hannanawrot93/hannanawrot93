@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hania
 - 👀 I’m interested in web development - frontend development.
-- 🌱 I’m currently learning React.js and Angular
+- 🌱 I’m currently learning React.js, Angular and SEO.
 - 📫 How to reach me hanna.nawrot93@gmail.com
 
 <!---
